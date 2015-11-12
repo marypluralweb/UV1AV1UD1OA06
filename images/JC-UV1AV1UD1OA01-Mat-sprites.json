@@ -1,0 +1,182 @@
+﻿{"frames": [
+{
+	"filename": "almofada",
+	"frame": {"x":347,"y":2,"w":114,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":43},
+	"sourceSize": {"w":114,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blocos",
+	"frame": {"x":706,"y":2,"w":190,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":58},
+	"sourceSize": {"w":190,"h":58},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bola",
+	"frame": {"x":1062,"y":2,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "boneco",
+	"frame": {"x":1002,"y":79,"w":71,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":119},
+	"sourceSize": {"w":71,"h":119},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "carro",
+	"frame": {"x":181,"y":79,"w":142,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":96},
+	"sourceSize": {"w":142,"h":96},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dado",
+	"frame": {"x":70,"y":79,"w":109,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":82},
+	"sourceSize": {"w":109,"h":82},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "garrafa",
+	"frame": {"x":442,"y":79,"w":46,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":101},
+	"sourceSize": {"w":46,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "jornal",
+	"frame": {"x":554,"y":2,"w":150,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":54},
+	"sourceSize": {"w":150,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lapis",
+	"frame": {"x":490,"y":79,"w":79,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":110},
+	"sourceSize": {"w":79,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "livro",
+	"frame": {"x":898,"y":2,"w":162,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":74},
+	"sourceSize": {"w":162,"h":74},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "medalha",
+	"frame": {"x":2,"y":79,"w":66,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":79},
+	"sourceSize": {"w":66,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "puzzle",
+	"frame": {"x":1075,"y":79,"w":107,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":121},
+	"sourceSize": {"w":107,"h":121},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "regua",
+	"frame": {"x":111,"y":2,"w":234,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":37},
+	"sourceSize": {"w":234,"h":37},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "relogio",
+	"frame": {"x":571,"y":79,"w":86,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":111},
+	"sourceSize": {"w":86,"h":111},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "retrato",
+	"frame": {"x":325,"y":79,"w":115,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":99},
+	"sourceSize": {"w":115,"h":99},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "revista",
+	"frame": {"x":2,"y":2,"w":107,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":32},
+	"sourceSize": {"w":107,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "selo",
+	"frame": {"x":463,"y":2,"w":89,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":53},
+	"sourceSize": {"w":89,"h":53},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "telefone",
+	"frame": {"x":659,"y":79,"w":227,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":113},
+	"sourceSize": {"w":227,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "trofeu",
+	"frame": {"x":888,"y":79,"w":112,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":117},
+	"sourceSize": {"w":112,"h":117},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game_sprites",
+	"format": "RGBA8888",
+	"size": {"w":1184,"h":240},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:48e0d38f23545d7bcc4aff7f6483bdeb:94b3e9fb1de064aece7c9ad453e33863:0a4c74891bedeb618db303abf0581f0e$"
+}
+}

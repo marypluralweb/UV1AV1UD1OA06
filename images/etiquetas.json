@@ -1,0 +1,201 @@
+{"frames": [
+
+{
+	"filename": "balao_amarelo",
+	"frame": {"x":2,"y":2,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "balao_azul",
+	"frame": {"x":153,"y":2,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "balao_verde",
+	"frame": {"x":304,"y":2,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "balao_vermelho",
+	"frame": {"x":455,"y":2,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bola",
+	"frame": {"x":606,"y":2,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cabide",
+	"frame": {"x":757,"y":2,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cachorro",
+	"frame": {"x":908,"y":2,"w":150,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":39},
+	"sourceSize": {"w":150,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "casa",
+	"frame": {"x":2,"y":43,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cortina",
+	"frame": {"x":153,"y":43,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "fred",
+	"frame": {"x":304,"y":43,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "junior",
+	"frame": {"x":455,"y":43,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lampada",
+	"frame": {"x":606,"y":43,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mascara",
+	"frame": {"x":757,"y":43,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mesa",
+	"frame": {"x":908,"y":43,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "oculos",
+	"frame": {"x":2,"y":84,"w":149,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":40},
+	"sourceSize": {"w":149,"h":40},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "patins",
+	"frame": {"x":153,"y":84,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "poly",
+	"frame": {"x":304,"y":84,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pombo",
+	"frame": {"x":455,"y":84,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sapato",
+	"frame": {"x":606,"y":84,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sapo",
+	"frame": {"x":757,"y":84,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "urso",
+	"frame": {"x":908,"y":84,"w":149,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":39},
+	"sourceSize": {"w":149,"h":39},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "etiquetas",
+	"format": "RGBA8888",
+	"size": {"w":1060,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:33bb594cf1f4361e4bf9f182cec21433:18b47e218064fe8dc6410642d8831fb0:de6bb5068ea1510b600e1d81ab18a965$"
+}
+}

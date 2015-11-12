@@ -1,0 +1,97 @@
+{
+  "resources": [
+    "output.mp3"
+  ],
+  "spritemap": {
+    "BALAO_AMARELO": {
+      "start": 0,
+      "end": 2.0114285714285716,
+      "loop": false
+    },
+    "BALAO_AZUL": {
+      "start": 4,
+      "end": 5.750204081632653,
+      "loop": false
+    },
+    "BALAO_VERDE": {
+      "start": 7,
+      "end": 8.82857142857143,
+      "loop": false
+    },
+    "BALAO_VERMELHO": {
+      "start": 10,
+      "end": 11.776326530612245,
+      "loop": false
+    },
+    "BOLA": {
+      "start": 13,
+      "end": 14.28,
+      "loop": false
+    },
+    "CABIDE": {
+      "start": 16,
+      "end": 17.071020408163264,
+      "loop": false
+    },
+    "CORTINA": {
+      "start": 19,
+      "end": 20.358367346938774,
+      "loop": false
+    },
+    "FRED": {
+      "start": 22,
+      "end": 22.914285714285715,
+      "loop": false
+    },
+    "JUNIOR": {
+      "start": 24,
+      "end": 25.018775510204083,
+      "loop": false
+    },
+    "LAMPADA": {
+      "start": 27,
+      "end": 28.41061224489796,
+      "loop": false
+    },
+    "MASCARA": {
+      "start": 30,
+      "end": 31.25387755102041,
+      "loop": false
+    },
+    "MESA": {
+      "start": 33,
+      "end": 34.071020408163264,
+      "loop": false
+    },
+    "OCULOS": {
+      "start": 36,
+      "end": 37.332244897959185,
+      "loop": false
+    },
+    "PATINS": {
+      "start": 39,
+      "end": 40.436734693877554,
+      "loop": false
+    },
+    "POLY": {
+      "start": 42,
+      "end": 42.862040816326534,
+      "loop": false
+    },
+    "POMBO": {
+      "start": 44,
+      "end": 44.80979591836735,
+      "loop": false
+    },
+    "SAPATO": {
+      "start": 46,
+      "end": 47.17551020408163,
+      "loop": false
+    },
+    "URSO": {
+      "start": 49,
+      "end": 50.12326530612245,
+      "loop": false
+    }
+  }
+}
